@@ -5,7 +5,7 @@ public class Main {
         double totalPrice;
 
         //simulate input choice
-        itemPrice = 33;
+        itemPrice = 103;
 
         if (itemPrice >= 100) {
             System.out.println("You quality for free shipping. Your total price is " + itemPrice);
